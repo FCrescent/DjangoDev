@@ -8,7 +8,9 @@ Le script servira à :
     1. Le nom du Fund
     2. Combien de revenus générés sur les 10 lorsque 1 euro a été investi
     3. La liste des Entreprises incluses dans la descrip (AAPL), (AMZN), etc
-3. Fourth item 
+3. Leads about "ethical" investment :
+    1. https://investir-ethique.fr/comparateurs/comparateur-choisir-un-etf-responsable/
+    2. https://ekonomia.fr/finances-ethiques/#criteres-esg
 
 # (For memory >>> )First things that appear when start the project from VS
 It worked!
