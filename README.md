@@ -13,7 +13,7 @@ Le script servira à :
     2. https://ekonomia.fr/finances-ethiques/#criteres-esg
 
 # Following this tuto : Tutoriel : Bien démarrer avec le framework web Django dans Visual Studio
-(Étape 1-5 : Done!)
+(Voir Commits pour avancement ; dernier : étape 2-2 finie)
 ## (For memory >>> )First things that appear when start the project from VS
 It worked!
 Congratulations on your first Django-powered page.
