@@ -12,7 +12,9 @@ Le script servira à :
     1. https://investir-ethique.fr/comparateurs/comparateur-choisir-un-etf-responsable/
     2. https://ekonomia.fr/finances-ethiques/#criteres-esg
 
-# (For memory >>> )First things that appear when start the project from VS
+# Following this tuto : Tutoriel : Bien démarrer avec le framework web Django dans Visual Studio
+(Étape 1-5 : Done!)
+## (For memory >>> )First things that appear when start the project from VS
 It worked!
 Congratulations on your first Django-powered page.
 
