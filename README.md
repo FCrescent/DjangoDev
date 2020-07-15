@@ -1,6 +1,9 @@
 # DjangoDev
 A repo to mess around with the framework
 
+# Following this tuto : Tutoriel : Bien démarrer avec le framework web Django dans Visual Studio
+(Voir Commits pour avancement ; dernier : étape 2-2 finie)
+
 # idea n1 for a python script for testing Django framework:
 Le script servira à :
 1. sur usnews.com, scanner "7 of the Best Socially Responsible Funds"
@@ -11,13 +14,3 @@ Le script servira à :
 3. Leads about "ethical" investment :
     1. https://investir-ethique.fr/comparateurs/comparateur-choisir-un-etf-responsable/
     2. https://ekonomia.fr/finances-ethiques/#criteres-esg
-
-# Following this tuto : Tutoriel : Bien démarrer avec le framework web Django dans Visual Studio
-(Voir Commits pour avancement ; dernier : étape 2-2 finie)
-## (For memory >>> )First things that appear when start the project from VS
-It worked!
-Congratulations on your first Django-powered page.
-
-Next, start your first app by running python manage.py startapp [app_label].
-
-You're seeing this message because you have DEBUG = True in your Django settings file and you haven't configured any URLs. Get to work!
